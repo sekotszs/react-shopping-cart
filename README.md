@@ -16,15 +16,15 @@ In this project you'll take take an almost completed e-commerce store and refact
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal.
-- [ ] CD into the project base directory `cd react-shopping-cart`.
-- [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm start`.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] Create a forked copy of this project.
+- [x] Add your team lead as collaborator on Github.
+- [x] Clone your OWN version of the repository in your terminal.
+- [x] CD into the project base directory `cd react-shopping-cart`.
+- [x] Download project dependencies by running `npm install`.
+- [x] Start up the app using `npm start`.
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
@@ -47,15 +47,15 @@ Before you get started, please take a few minutes and get acquainted with this a
 
 **Step 1 - Add item functionality**
 
-- In `App.js` there is a function called `addItem`. Finish writing the logic in this function to be able to add the given item to the shopping cart
+- In `App.js` there is a function called `addItem`. Finish writing the logic in this function to be able to add the given item to the shopping cart[x]
 
 **STEP 2 - Creating ProductContext**
 
-- In `src`, create a new folder named `contexts`, this folder is going to be used to hold all of `context objects` we create.
+- In `src`, create a new folder named `contexts`, this folder is going to be used to hold all of `context objects` we create.[x]
 
-- Inside that folder create a new file named `ProductContext.js`
+- Inside that folder create a new file named `ProductContext.js`[x]
 
-- In this file, import the `createContext` function from the react library and create our `ProductContext`.
+- In this file, import the `createContext` function from the react library and create our `ProductContext`.[x]
 
 **STEP 3 - Providing data with ProductContext**
 
